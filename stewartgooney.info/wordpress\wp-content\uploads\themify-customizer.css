@@ -1,0 +1,54 @@
+/* Themify Customize Styling */
+#headerwrap {	background: none;
+	background-color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 34px;
+	height: 48px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 34px; 
+}
+#site-description {	
+	font-family:Open Sans;	font-weight:300;
+	font-size:10%;
+ 
+}
+#main-nav {		position:relative;
+
+	top: 3px; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:300;
+ 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #0d0c0c; 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #000000; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #050505; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #11ff00; 
+}
+@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 34px;
+	height: 48px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 34px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 34px;
+	height: 48px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 34px; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 34px;
+	height: 48px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 34px; 
+}
+ }#headerwrap #mobile-menu.sidemenu-on nav li { 
+	color: #302b2b; }
